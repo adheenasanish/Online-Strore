@@ -1,6 +1,6 @@
 # Online-store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.[Backend is developed in Asp.net core[Web API]
 
 ## Development server
 
